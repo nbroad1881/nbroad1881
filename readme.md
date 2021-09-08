@@ -7,7 +7,7 @@ I am also getting more involved on Kaggle. Here is my profile: https://www.kaggl
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nbroad1881&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbroad1881&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
 
 <!--
 **nbroad1881/nbroad1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
