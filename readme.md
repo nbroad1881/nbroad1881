@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I am an NLP engineer currently working at GSK where I build capabilities to help understand what doctors are saying about GSK products. I am interested in everything NLP! 
+I am an ML engineer primarily focused on NLP but starting to branch off in new directions.  I'm currently trying to learn more about Jax/Flax because it makes working with TPUs very simple and the code doesn't have to be changed to then work on a GPU.
 
-I am also getting more involved on Kaggle. Here is my profile: https://www.kaggle.com/nbroad  
+I contribute (slightly) to [huggingface/transformers](https://github.com/huggingface/transformers) and I have a few models on the Hugging Face Hub: https://huggingface.co/nbroad
 
+Beginning in mid-2021, I have been getting more involved on Kaggle. Here is my profile and my rankings are below: https://www.kaggle.com/nbroad  
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbroad1881&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
 
 <!--
 **nbroad1881/nbroad1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/discussion)
+
+If you want to add Kaggle badges to your profile, use this: https://github.com/subinium/kaggle-badge
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbroad1881&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
