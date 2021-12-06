@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an ML engineer primarily focused on NLP but starting to branch off in new directions.  I'm currently trying to learn more about Jax/Flax because I think there is a lot of potential and the flexibility to move between TPU and GPU is really nice.
+I'm an ML engineer primarily focused on NLP but starting to branch off in new directions.  I'm currently trying to learn more about Jax/Flax because I think there is a lot of potential and the flexibility to move between TPU and GPU is really nice.
 
 I have a few models on the Hugging Face Hub: https://huggingface.co/nbroad
 
