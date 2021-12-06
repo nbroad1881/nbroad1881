@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am an ML engineer primarily focused on NLP but starting to branch off in new directions.  I'm currently trying to learn more about Jax/Flax because it makes working with TPUs very simple and the code doesn't have to be changed to then work on a GPU.
+I am an ML engineer primarily focused on NLP but starting to branch off in new directions.  I'm currently trying to learn more about Jax/Flax because I think there is a lot of potential and the flexibility to move between TPU and GPU is really nice.
 
-I contribute (slightly) to [huggingface/transformers](https://github.com/huggingface/transformers) and I have a few models on the Hugging Face Hub: https://huggingface.co/nbroad
+I have a few models on the Hugging Face Hub: https://huggingface.co/nbroad
 
 Beginning in mid-2021, I have been getting more involved on Kaggle. Here is my profile and my rankings are below: https://www.kaggle.com/nbroad  
 
