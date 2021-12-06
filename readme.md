@@ -6,7 +6,7 @@ I have a few models on the Hugging Face Hub: https://huggingface.co/nbroad
 
 Beginning in mid-2021, I have been getting more involved on Kaggle. Here is my profile and my rankings are below: https://www.kaggle.com/nbroad  
 
-
+That's my dog Maya in my profile photo. 🐶 She is perfect ❤️
 <!--
 **nbroad1881/nbroad1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
