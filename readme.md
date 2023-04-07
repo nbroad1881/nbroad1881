@@ -9,11 +9,4 @@ Beginning in mid-2021, I have been getting more involved on Kaggle. Here is my p
 That's my dog Maya in my profile photo. 🐶 She is perfect ❤️
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nbroad/discussion)
-
-If you want to add Kaggle badges to your profile, use this: https://github.com/subinium/kaggle-badge
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nbroad1881&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
